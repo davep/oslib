@@ -1,0 +1,48 @@
+OSLib.Lib Build Error Report
+============================
+
+autyield.c
+dosver.c
+ismswin.c
+isos2.c
+isos2win.c
+fullscrn.c
+win95.c
+isnt.c
+winclip.c
+
+Microsoft (R) Library Manager  Version 3.20    
+Copyright (C) Microsoft Corp 1983-1992.  All rights reserved.
+
+Library name: ..\Lib\OSLib.Lib
+Operations: -+..\OBJ\AUTYIELD.OBJ 
+LIB : warning U4155: ..\OBJ\AUTYIELD.OBJ : module not in library
+&
+Operations: -+..\OBJ\DOSVER.OBJ 
+LIB : warning U4155: ..\OBJ\DOSVER.OBJ : module not in library
+&
+Operations: -+..\OBJ\ISMSWIN.OBJ 
+LIB : warning U4155: ..\OBJ\ISMSWIN.OBJ : module not in library
+&
+Operations: -+..\OBJ\ISOS2.OBJ 
+LIB : warning U4155: ..\OBJ\ISOS2.OBJ : module not in library
+&
+Operations: -+..\OBJ\ISOS2WIN.OBJ 
+LIB : warning U4155: ..\OBJ\ISOS2WIN.OBJ : module not in library
+&
+Operations: -+..\OBJ\FULLSCRN.OBJ 
+LIB : warning U4155: ..\OBJ\FULLSCRN.OBJ : module not in library
+&
+Operations: -+..\OBJ\WIN95.OBJ 
+LIB : warning U4155: ..\OBJ\WIN95.OBJ : module not in library
+&
+Operations: -+..\OBJ\ISNT.OBJ 
+LIB : warning U4155: ..\OBJ\ISNT.OBJ : module not in library
+&
+Operations: -+..\OBJ\WINCLIP.OBJ 
+LIB : warning U4155: ..\OBJ\WINCLIP.OBJ : module not in library
+&
+Operations: -+..\OBJ\YIELD.OBJ 
+LIB : warning U4155: ..\OBJ\YIELD.OBJ : module not in library
+&
+Operations: ,..\Lib\OSLib.Lst;

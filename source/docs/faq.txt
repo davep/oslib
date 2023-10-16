@@ -1,0 +1,9 @@
+!Short: 1. OL_WinFullScreen() is handy, where is OL_WinUnFullScreen()?
+Windows doesn't appear to provide DOS sessions such a service. If you
+know of one please feel to donate the code to the library.
+!Short: 2. Why don't the clipboard functions work under Windows NT?
+Windows NT's VDMs don't support that service. If you know of a method
+of doing this from a Windows VDM please consider submitting code to
+the library.
+!Short: 3. Why don't the OL_95*() functions work under Windows NT?
+Because they are Windows 95/98 functions, hence the name.

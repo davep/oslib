@@ -1,0 +1,33 @@
+Welcome to OSLIB.
+
+This little library is a loose collection of functions for allowing a
+Clipper program to interact with the host OS and to find out details about
+that OS.
+
+Some of the functions are my own work, others are taken from public domain
+sources or have been donated for public use. I make no claims over the source,
+and it is placed in the public domain in the hope that this collection will
+be of use to someone.
+
+Keep in mind that this code comes with NO WARRANTY! You use it at your own
+risk. If you don't like this idea, don't use it.
+
+Please note that a couple of the functions require the CPMI library because
+they need to do different things if your application is linked for
+protected mode. To make things easy I've included a copy of the CPMI
+library. Please ensure that you link it in if you are using one of the
+functions that needs it (the docs for the functions will say if they
+need it).
+
+The primary sites for this library are:
+
+        Hagbard's World: http://www.acemake.com/hagbard/
+        Hagbard's World: http://www.hagbard.demon.co.uk/
+
+and
+
+              The Oasis: http://www.iag.net/~philb/
+
+If you have any problems or questions please address them to:
+
+        davep@hagbard.demon.co.uk
